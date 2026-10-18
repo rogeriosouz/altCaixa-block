@@ -1,5 +1,5 @@
 {
   "ativo": true,
-  "bloqueado": false,
+  "bloqueado": true,
   "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação."
 }
