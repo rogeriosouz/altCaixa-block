@@ -4,7 +4,7 @@
     {
       "id": "cliente-001",
       "name": "Loja Centro",
-      "bloqueado": true,
+      "bloqueado": false,
       "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação."
     },
     {
