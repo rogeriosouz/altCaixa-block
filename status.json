@@ -1,9 +1,11 @@
+
 {
   "ativo": true,
   "lojas": [
     {
       "id": "cliente-001",
       "name": "Loja Centro",
+      "userUid": "UID_REAL_DO_PROPRIETARIO",
       "bloqueado": false,
       "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação.",
       "tracking": true
@@ -11,6 +13,7 @@
     {
       "id": "cliente-002",
       "name": "Loja Bairro",
+      "userUid": "UID_REAL_DO_SEGUNDO_PROPRIETARIO",
       "bloqueado": true,
       "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação.",
       "tracking": true
