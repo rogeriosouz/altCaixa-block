@@ -1,22 +1,8 @@
-
 {
-  "ativo": true,
-  "lojas": [
+  "licenses": [
     {
-      "id": "cliente-001",
-      "name": "Loja Centro",
-      "userUid": "8V4W2eaJNjoh2wwka0ZgBMK955o7C0Sr",
-      "bloqueado": false,
-      "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação.",
-      "tracking": true
-    },
-    {
-      "id": "cliente-002",
-      "name": "Loja Bairro",
-      "userUid": "UID_REAL_DO_SEGUNDO_PROPRIETARIO",
-      "bloqueado": true,
-      "mensagem": "Acesso suspenso. Entre em contato para regularizar sua situação.",
-      "tracking": true
+      "store_name": "IRMAOS ALVES MATERIAIS DE CONSTRUCAO E SERVICOS LTDA",
+      "status": "active"
     }
   ]
 }
